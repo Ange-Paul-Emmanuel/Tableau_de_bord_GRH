@@ -42,7 +42,7 @@ Le rapport est organisé en plusieurs pages :
 
 ---
 
-## 🛠️ Outils & Technologies  
+## Outils & Technologies  
 - **Power BI Desktop** : création des visualisations, mesures DAX, et navigation interactive.  
 - **Excel** : préparation et nettoyage des données brutes RH (effectifs, salaires, ancienneté, etc.).  
 - **Python** :  
