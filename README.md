@@ -36,9 +36,16 @@ Le but est d’aider la Direction RH à :
 ## Structure du dashboard  
 Le rapport est organisé en plusieurs pages :  
 
-1. **Accueil** – Vue générale du projet et navigation.  
-2. **Vue Globale** – Effectifs, promotions, retraites, satisfaction, performance.  
-3. **Employés** – Détails individuels par nom, poste, département (avec photo et statut).  
+1. **Accueil** – Informations générales et navigation.
+   
+<img width="1294" height="740" alt="Page 1" src="https://github.com/user-attachments/assets/ed3983cf-1e7b-40f5-8abf-fd99d8a669fc" />
+
+2. **Vue Globale** – Effectifs, promotions, retraites, satisfaction, performance.
+<img width="1301" height="740" alt="Page 2" src="https://github.com/user-attachments/assets/01695b18-9cf9-4b1e-b131-4cb9415979b0" />
+    
+3. **Employés** – Détails individuels par nom, poste, département (avec photo et statut).
+<img width="1307" height="746" alt="Page 3" src="https://github.com/user-attachments/assets/beeed6cd-da77-4ae0-b781-d09669fb1d5f" />
+
 
 ---
 
