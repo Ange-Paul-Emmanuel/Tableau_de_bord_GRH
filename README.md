@@ -1,5 +1,3 @@
-# Tableau_de_bord_GRH
-
 # Gestion des Ressources Humaines – Dashboard Power BI  
 
 ## Contexte du projet  
